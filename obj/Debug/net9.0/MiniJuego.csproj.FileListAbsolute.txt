@@ -1,0 +1,14 @@
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\bin\Debug\net9.0\MiniJuego.exe
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\bin\Debug\net9.0\MiniJuego.deps.json
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\bin\Debug\net9.0\MiniJuego.runtimeconfig.json
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\bin\Debug\net9.0\MiniJuego.dll
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\bin\Debug\net9.0\MiniJuego.pdb
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\MiniJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\MiniJuego.AssemblyInfoInputs.cache
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\MiniJuego.AssemblyInfo.cs
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\MiniJuego.csproj.CoreCompileInputs.cache
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\MiniJuego.dll
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\refint\MiniJuego.dll
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\MiniJuego.pdb
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\MiniJuego.genruntimeconfig.cache
+C:\Users\SENA.MEDUSBCPDFSD030\MiniJuego\obj\Debug\net9.0\ref\MiniJuego.dll
